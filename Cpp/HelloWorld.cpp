@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
-    cout<<"Hello World");
+    printf("Hello, world?");
+    
+    return 0;
 }
